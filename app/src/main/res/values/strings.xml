@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alat Musik Harmonis</string>
+    <string name="instrument_name">Nama Alat Musik</string>
+    <string name="detail">Detail Alat Musik</string>
+    <string name="title_name">Nama</string>
+    <string name="place_holder_name">Nama Alat Musik</string>
+    <string name="title_description">Deskripsi</string>
+    <string name="place_holder_description">Deskripsi Alat Musik</string>
+    <string name="title_profile">Profile</string>
+    <string name="profile_name">Muhamad Iqbal</string>
+    <string name="profile_email">muhamad.iqbal46@gmail.com</string>
+    <string name="profile_github">github.com/iqbalfl</string>
+    <string name="profile_notice">Isi konten pada aplikasi ini dikutip dari artikel pada website nesabamedia.com</string>
+</resources>
